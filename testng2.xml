@@ -7,6 +7,7 @@
       <class name="qaclickacademy.Mavenjava.RestAPITest"/>
       <class name="qaclickacademy.Mavenjava.RESTAPI"/>
       <class name="qaclickacademy.Mavenjava.SeleniumTest"/>
+      <class name="qaclickacademy.Mavenjava.AppumTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
